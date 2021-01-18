@@ -1,0 +1,230 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CacaDust",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_dust"
+    },
+    {
+      "name": "CacaOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_ore"
+    },
+    {
+      "name": "CacaBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_block"
+    },
+    {
+      "name": "CacaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_ore_block_recipe"
+    },
+    {
+      "name": "CacaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_block_ore_recipe"
+    },
+    {
+      "name": "CacaOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_ore_smelting"
+    },
+    {
+      "name": "CacaPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_pickaxe"
+    },
+    {
+      "name": "CacaAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_axe"
+    },
+    {
+      "name": "CacaSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_sword"
+    },
+    {
+      "name": "CacaShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_shovel"
+    },
+    {
+      "name": "CacaHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_hoe"
+    },
+    {
+      "name": "CacaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_pickaxe_recipe"
+    },
+    {
+      "name": "CacaAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_axe_recipe"
+    },
+    {
+      "name": "CacaSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_sword_recipe"
+    },
+    {
+      "name": "CacaShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_shovel_recipe"
+    },
+    {
+      "name": "CacaHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_hoe_recipe"
+    },
+    {
+      "name": "CacaArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CacaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor_helmet_recipe"
+    },
+    {
+      "name": "CacaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor_body_recipe"
+    },
+    {
+      "name": "CacaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor_leggings_recipe"
+    },
+    {
+      "name": "CacaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caca_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mod.caca_armor_leggings": "Caca Leggings",
+      "item.mod.caca_armor_helmet": "Caca Helmet",
+      "item.mod.caca_dust": "Caca",
+      "block.mod.caca_block": "Block of Caca",
+      "item.mod.caca_armor_boots": "Caca Boots",
+      "block.mod.caca_ore": "Caca Ore",
+      "item.mod.caca_armor_chestplate": "Caca Chestplate"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mod",
+    "modName": "mod",
+    "version": "1.0.0",
+    "author": "lcout, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.3",
+    "modElementsPackage": "net.mcreator.mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

@@ -1,0 +1,42 @@
+{
+  "group": "mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod:caca_dust"
+    },
+    "1": {
+      "item": "mod:caca_dust"
+    },
+    "2": {
+      "item": "mod:caca_dust"
+    },
+    "3": {
+      "item": "mod:caca_dust"
+    },
+    "4": {
+      "item": "mod:caca_dust"
+    },
+    "5": {
+      "item": "mod:caca_dust"
+    },
+    "6": {
+      "item": "mod:caca_dust"
+    },
+    "7": {
+      "item": "mod:caca_dust"
+    },
+    "8": {
+      "item": "mod:caca_dust"
+    }
+  },
+  "result": {
+    "item": "mod:caca_block",
+    "count": 1
+  }
+}

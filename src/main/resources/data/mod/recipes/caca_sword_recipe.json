@@ -1,0 +1,24 @@
+{
+  "group": "mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mod:caca_dust"
+    },
+    "1": {
+      "item": "mod:caca_dust"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mod:caca_sword",
+    "count": 1
+  }
+}

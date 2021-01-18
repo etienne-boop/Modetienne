@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mod",
+  "version": "1.0.0",
+  "name": "mod",
+  "authors": [
+    "lcout, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/MCreatorFabricGenerator"
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.mod.ModMod"
+    ],
+    "client": [
+      "net.mcreator.mod.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.9.0",
+    "fabric": "*"
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ]
+}

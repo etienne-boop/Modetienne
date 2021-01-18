@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mod:blocks/caca_ore",
+    "particle": "mod:blocks/caca_ore"
+  }
+}
